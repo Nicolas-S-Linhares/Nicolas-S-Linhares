@@ -1,10 +1,8 @@
 <h2 align="left">Trabalho atualmente como QA na SCI</h2>
 
-###
 <div align="left">Add commentMore actions
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
 </div>
-###
 
 ###
 
