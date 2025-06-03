@@ -6,10 +6,6 @@
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-</div>
-
 ###
 
 <div align="left">
@@ -21,7 +17,5 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/Nicolas-S-Linhares/Nicolas-S-Linhares/output/snake.svg" alt="Snake animation" />
 
 ###
